@@ -1,7 +1,5 @@
 jo
 
 
-
-
-
-so hier im Master hab ich jetzt diese änderung gemacht!
+das hier ist jetzt einfach der richtige text
+hab den konflikt aufgelöst
